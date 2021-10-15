@@ -17,3 +17,15 @@
 #
 # Boolean = True  # bollean(), Typ logiczny. Przyjmuje wartości True(1) lub False(0)
 # print(f'{Boolean} {type(Boolean)}')
+
+
+# # Operatory arytmetyczne ↓
+# x, y = 3, 5
+# print(x + y)   # 8      dodawanie
+# print(x - y)   # 2      odejmowanie
+# print(x * y)   # 15     mnożenie
+# print(x / y)   # 0.6    dzielenie
+# print(x // y)  # 0      dzielenie całkowite
+# print(x % y)   # 3      modulo - zwraca resztę z dzielenia
+# print(x ** y)  # 243    potęgowanie
+# print(-x)      # -3     liczba przeciwna
